@@ -5,6 +5,12 @@
 * LocalPlayerの取得に、プレイヤーの名前を使用しています。  
   -> 普通にLocalPlayerを取得しようとするとポインタ暗号化があって面倒くさかったのでプレイヤーの名前ベースでLocalPlayerを取得しています。
 
+### How to use
+1. Install VisualStudio
+2. C++... MSVCP... でコンパイルする  
+   2-Option : 自分のIDをハードコードする
+3. ゲームとチートを開き、自分のEAのIDを入力する
+
 ### 機能：
 [+] ESP (歩兵のみ) - Box, Line, HealthBar, Distance, Name
 
